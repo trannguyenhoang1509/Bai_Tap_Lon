@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1747225673 source:d:\code\dino\main.cpp
+	"Game.h"
+
+1747226610 source:d:\code\dino\game.cpp
+	"Game.h"
+	"TextureManager.h"
+	<iostream>
+
+1747225783 d:\code\dino\game.h
+	<SDL.h>
+	<vector>
+	"Dino.h"
+	"Obstacle.h"
+
+1747226908 d:\code\dino\dino.h
+	<SDL.h>
+
+1747218257 d:\code\dino\texturemanager.h
+	<SDL.h>
+	<string>
+
+1747224418 source:d:\code\dino\texturemanager.cpp
+	"TextureManager.h"
+	<SDL_image.h>
+	<iostream>
+
+1747227295 source:d:\code\dino\dino.cpp
+	"Dino.h"
+	"TextureManager.h"
+	<iostream>
+
+1747225830 source:d:\code\dino\obstacle.cpp
+	"Obstacle.h"
+	"TextureManager.h"
+	<cstdlib>
+
+1747225696 d:\code\dino\obstacle.h
+	<SDL.h>
+
+1747964352 source:c:\baitaplon\game.cpp
+	"Game.h"
+	"TextureManager.h"
+	<iostream>
+
+1747898219 c:\baitaplon\game.h
+	<SDL.h>
+	<vector>
+	"Dino.h"
+	"Obstacle.h"
+
+1747964795 c:\baitaplon\dino.h
+	<SDL.h>
+
+1747898218 c:\baitaplon\obstacle.h
+	<SDL.h>
+
+1747898219 c:\baitaplon\texturemanager.h
+	<SDL.h>
+	<string>
+
+1747898219 source:c:\baitaplon\main.cpp
+	"Game.h"
+
+1747965204 source:c:\baitaplon\dino.cpp
+	"Dino.h"
+	"TextureManager.h"
+	<iostream>
+
+1747898218 source:c:\baitaplon\obstacle.cpp
+	"Obstacle.h"
+	"TextureManager.h"
+	<cstdlib>
+
+1747898219 source:c:\baitaplon\texturemanager.cpp
+	"TextureManager.h"
+	<SDL_image.h>
+	<iostream>
+
